@@ -25,7 +25,7 @@ namespace Tutorial1
                 foreach (var emailAddress in matches)
                 {
                     Console.WriteLine(emailAddress.ToString());
-
+                    //public string Test1 {get; set; }
                 }
 
             }
